@@ -2,7 +2,7 @@
 
 # Importing the NumPy library 
     # not used directly in this program, a dependency for pandas
-    # Using "np" as an alias for pandas is a common convention
+    # Using "np" as an alias for numpy is a common convention
 import numpy as np             
 
 # Importing the Pandas library 
